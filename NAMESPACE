@@ -1,0 +1,6 @@
+export(retentionBrd, plotRetentionArea, plotRejDecbyAssm)
+import(sensitivitymv)
+importFrom("grDevices", "gray")
+import("graphics")
+importFrom("stats", "pchisq")
+importFrom("utils", "tail")
