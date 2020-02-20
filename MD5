@@ -1,4 +1,5 @@
-48e082c4a7cf7ca5408c82fb5e26b526 *DESCRIPTION
+6ced10d8ea66f6542e1cdf021d8fcd91 *DESCRIPTION
+fea5e472d523ba00e20c55b2e3dc7cc6 *LICENSE
 78d12c8ccb11b9784ee61bb033edbce3 *NAMESPACE
 e5e467e4c28572ee20764a02a16e1e24 *R/findBorder.R
 4800d88b490365cf7cb3d26a25f9abe9 *R/multtrunc.R
@@ -8,13 +9,13 @@ e5e467e4c28572ee20764a02a16e1e24 *R/findBorder.R
 abea9abac8bc0a9d70df84cece1dfdd0 *R/rej.R
 f961baaebcb4e6f84c0aef33ec8ad7bc *R/retentionBrd.R
 d2bad8faf48c976dbf043ab7fa8cd96d *R/truncP.R
-b140c641d2fa6437f4b9019667822c15 *build/partial.rdb
+2d41ac3ffc6ea8dd0e53df0e2c05f49b *build/partial.rdb
 c008c994e9c46925550a5411d2a0d1b4 *data/Gamlist.rda
 f3aa77370b460bca2199a806095f4e43 *data/Plist.rda
 570b98fe41ae247b942ed4b92c7981ed *data/mtm.rda
 5d06fadbaa59ad26b76c5e03ec6cc2b4 *man/Gamlist.Rd
 5cbe0ec33b627907cff4c0c9295f85ed *man/Plist.Rd
-3b23fc56ba14cef529c74bbfd37390ba *man/evidenceFactors-package.Rd
+e1cea802c41c12850d8f1140fb06b249 *man/evidenceFactors-package.Rd
 3828fb72b907d09da2b645eb1d12840e *man/mtm.Rd
 cd5db0d4e56516ac541e9be1fa6748bf *man/plotRejDecbyAssm.Rd
 d478af5c3d8b9400d3fdbda477b98931 *man/plotRetentionArea.Rd
